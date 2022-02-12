@@ -2,3 +2,4 @@
 
 ## Topics
 * [Basic Select](https://github.com/raulpacheco2k/HackerRank-SQL-Challenges/tree/main/Basic%20Select) 
+* [Advanced Select](https://github.com/raulpacheco2k/HackerRank-SQL-Challenges/tree/main/Advanced%20Select)
